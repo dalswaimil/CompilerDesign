@@ -305,7 +305,11 @@ As we mention in the definition of the compiler is to translate the source langu
 > TODO: Translate Source Language to Target Language
 
 #### Object Code and Executables
-> TODO: Object Code and Executables
+> Let first define each of Source code, Object code and Executable and then later we can talk about how they work with the compiler.
+Source Code: is the code that the programmers write it and run it on his/her machines.
+Executable Code: is the code that runs on your machines, which is usually linked to the source code.
+Last, Object Code: is act as the transitional form between the source code and the Executable code.
+
 
 #### Platform Independent Compilers
 > TODO: add Platform Independent Compilers
