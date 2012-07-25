@@ -315,7 +315,7 @@ Last, Object Code: is act as the transitional form between the source code and t
 > TODO: add Platform Independent Compilers
 
 #### Hardware Compilation
-> TODO: add Hardware Compilation
+> At the very low lever in computer hardware, sometimes the compilers' output targets this computer hardware. The output of the complication is not instructions that are executed in sequence. For some compilers are said to be hardware compilers or synthesis tools because the source code they compile effectively controls the final configuration of the hardware and how it operates.   
 
 #### Compiler Design
 
